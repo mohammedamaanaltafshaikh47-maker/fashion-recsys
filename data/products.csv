@@ -1,0 +1,301 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName,price
+10000,Unisex,Apparel,Topwear,Kurtas,Blue,Winter,2019,Casual,Turtle Check Unisex Casual Blue Kurtas,3755
+10001,Men,Apparel,Topwear,Tshirts,Blue,Summer,2022,Formal,W Men Formal Blue Tshirts,2104
+10002,Women,Accessories,Watches,Watches,White,Spring,2020,Party,Roadster Women Party White Watches,2062
+10003,Women,Apparel,Topwear,Sweaters,Black,Fall,2020,Ethnic,Puma Women Ethnic Black Sweaters,654
+10004,Unisex,Footwear,Flip Flops,Flip Flops,Green,Summer,2022,Party,Van Heusen Unisex Party Green Flip Flops,1874
+10005,Unisex,Apparel,Topwear,Tshirts,Red,Summer,2019,Casual,W Unisex Casual Red Tshirts,2576
+10006,Women,Accessories,Watches,Watches,Beige,Fall,2019,Party,Turtle Check Women Party Beige Watches,1700
+10007,Unisex,Accessories,Belts,Belts,Pink,Spring,2020,Ethnic,HRX Unisex Ethnic Pink Belts,2955
+10008,Men,Apparel,Topwear,Kurtas,Green,Fall,2018,Formal,Van Heusen Men Formal Green Kurtas,2040
+10009,Unisex,Footwear,Sandals,Sandals,White,Fall,2019,Formal,Puma Unisex Formal White Sandals,3808
+10010,Unisex,Footwear,Sandals,Sandals,White,Spring,2018,Casual,Turtle Check Unisex Casual White Sandals,1551
+10011,Unisex,Apparel,Innerwear,Vests,Green,Spring,2022,Sports,Puma Unisex Sports Green Vests,4831
+10012,Men,Accessories,Bags,Backpacks,Yellow,Fall,2018,Party,W Men Party Yellow Backpacks,1594
+10013,Women,Apparel,Dress,Jumpsuits,White,Summer,2023,Party,HRX Women Party White Jumpsuits,1551
+10014,Women,Apparel,Topwear,Kurtas,Pink,Summer,2018,Party,Puma Women Party Pink Kurtas,2260
+10015,Men,Apparel,Topwear,Shirts,Pink,Summer,2022,Formal,Roadster Men Formal Pink Shirts,4192
+10016,Unisex,Apparel,Dress,Jumpsuits,Maroon,Spring,2019,Ethnic,HRX Unisex Ethnic Maroon Jumpsuits,2852
+10017,Women,Accessories,Watches,Watches,Grey,Spring,2018,Formal,HRX Women Formal Grey Watches,823
+10018,Women,Apparel,Bottomwear,Shorts,Blue,Summer,2018,Casual,HRX Women Casual Blue Shorts,851
+10019,Men,Footwear,Shoes,Formal Shoes,Blue,Fall,2023,Sports,HRX Men Sports Blue Formal Shoes,4716
+10020,Men,Accessories,Jewellery,Necklaces,Pink,Spring,2019,Casual,Turtle Check Men Casual Pink Necklaces,3830
+10021,Women,Footwear,Sandals,Sandals,Navy Blue,Summer,2018,Sports,Van Heusen Women Sports Navy Blue Sandals,1194
+10022,Men,Apparel,Bottomwear,Shorts,Pink,Winter,2021,Formal,Puma Men Formal Pink Shorts,4088
+10023,Men,Apparel,Innerwear,Vests,Navy Blue,Summer,2018,Formal,Roadster Men Formal Navy Blue Vests,3628
+10024,Women,Footwear,Shoes,Sports Shoes,Navy Blue,Winter,2021,Casual,W Women Casual Navy Blue Sports Shoes,2471
+10025,Women,Footwear,Sandals,Sandals,White,Winter,2020,Formal,Peter England Women Formal White Sandals,4740
+10026,Men,Accessories,Watches,Watches,Navy Blue,Spring,2022,Ethnic,Roadster Men Ethnic Navy Blue Watches,764
+10027,Unisex,Apparel,Bottomwear,Jeans,Maroon,Summer,2023,Formal,W Unisex Formal Maroon Jeans,1281
+10028,Unisex,Apparel,Topwear,Shirts,Green,Fall,2020,Formal,Van Heusen Unisex Formal Green Shirts,2254
+10029,Women,Footwear,Shoes,Formal Shoes,Yellow,Fall,2021,Party,Turtle Check Women Party Yellow Formal Shoes,375
+10030,Women,Accessories,Bags,Handbags,Grey,Winter,2022,Party,Roadster Women Party Grey Handbags,3158
+10031,Men,Apparel,Dress,Sarees,White,Spring,2022,Party,Peter England Men Party White Sarees,4842
+10032,Women,Accessories,Bags,Handbags,Red,Summer,2018,Ethnic,Roadster Women Ethnic Red Handbags,2530
+10033,Women,Accessories,Belts,Belts,Blue,Fall,2022,Sports,Puma Women Sports Blue Belts,715
+10034,Men,Accessories,Jewellery,Earrings,Navy Blue,Summer,2020,Formal,Puma Men Formal Navy Blue Earrings,1622
+10035,Unisex,Footwear,Flip Flops,Flip Flops,Grey,Summer,2018,Casual,Roadster Unisex Casual Grey Flip Flops,4768
+10036,Men,Footwear,Flip Flops,Flip Flops,Green,Winter,2018,Party,Van Heusen Men Party Green Flip Flops,625
+10037,Women,Apparel,Bottomwear,Shorts,Black,Fall,2022,Sports,Roadster Women Sports Black Shorts,2238
+10038,Men,Apparel,Innerwear,Vests,White,Fall,2021,Formal,Puma Men Formal White Vests,1603
+10039,Unisex,Apparel,Innerwear,Vests,Pink,Winter,2019,Sports,Van Heusen Unisex Sports Pink Vests,2799
+10040,Men,Apparel,Topwear,Tshirts,Green,Fall,2020,Casual,Puma Men Casual Green Tshirts,3175
+10041,Unisex,Accessories,Jewellery,Earrings,Navy Blue,Summer,2020,Formal,Puma Unisex Formal Navy Blue Earrings,612
+10042,Men,Accessories,Jewellery,Earrings,Beige,Spring,2022,Ethnic,Turtle Check Men Ethnic Beige Earrings,3454
+10043,Unisex,Apparel,Dress,Dresses,Green,Summer,2022,Ethnic,HRX Unisex Ethnic Green Dresses,3282
+10044,Women,Apparel,Dress,Jumpsuits,Beige,Summer,2023,Party,Puma Women Party Beige Jumpsuits,3644
+10045,Women,Footwear,Flip Flops,Flip Flops,Grey,Winter,2019,Sports,W Women Sports Grey Flip Flops,1724
+10046,Unisex,Accessories,Watches,Watches,Grey,Summer,2020,Party,HRX Unisex Party Grey Watches,3820
+10047,Unisex,Accessories,Watches,Watches,Pink,Spring,2023,Formal,Fabindia Unisex Formal Pink Watches,1689
+10048,Unisex,Apparel,Dress,Jumpsuits,Yellow,Fall,2018,Formal,Puma Unisex Formal Yellow Jumpsuits,2139
+10049,Men,Apparel,Topwear,Shirts,Blue,Spring,2022,Casual,Fabindia Men Casual Blue Shirts,3694
+10050,Unisex,Accessories,Belts,Belts,Pink,Spring,2019,Formal,Peter England Unisex Formal Pink Belts,1172
+10051,Women,Apparel,Bottomwear,Shorts,Grey,Spring,2018,Ethnic,HRX Women Ethnic Grey Shorts,1293
+10052,Women,Apparel,Innerwear,Briefs,Pink,Spring,2022,Sports,Roadster Women Sports Pink Briefs,4187
+10053,Women,Footwear,Shoes,Formal Shoes,Red,Spring,2023,Formal,Puma Women Formal Red Formal Shoes,3902
+10054,Men,Accessories,Watches,Watches,Red,Fall,2020,Ethnic,Turtle Check Men Ethnic Red Watches,1432
+10055,Men,Apparel,Innerwear,Vests,Blue,Summer,2021,Sports,Van Heusen Men Sports Blue Vests,4744
+10056,Women,Footwear,Shoes,Casual Shoes,Green,Spring,2022,Casual,W Women Casual Green Casual Shoes,4206
+10057,Men,Footwear,Sandals,Sandals,Green,Winter,2021,Formal,Puma Men Formal Green Sandals,3869
+10058,Women,Apparel,Innerwear,Briefs,Yellow,Spring,2023,Formal,Fabindia Women Formal Yellow Briefs,1344
+10059,Unisex,Accessories,Bags,Backpacks,Maroon,Summer,2018,Sports,Roadster Unisex Sports Maroon Backpacks,4081
+10060,Men,Apparel,Dress,Sarees,Beige,Winter,2021,Party,Van Heusen Men Party Beige Sarees,3404
+10061,Women,Footwear,Sandals,Sandals,Pink,Summer,2023,Ethnic,Peter England Women Ethnic Pink Sandals,3165
+10062,Men,Accessories,Bags,Handbags,Navy Blue,Winter,2019,Casual,Roadster Men Casual Navy Blue Handbags,2253
+10063,Men,Footwear,Flip Flops,Flip Flops,Maroon,Winter,2021,Party,Van Heusen Men Party Maroon Flip Flops,1673
+10064,Unisex,Accessories,Bags,Handbags,Red,Summer,2022,Casual,Puma Unisex Casual Red Handbags,3373
+10065,Women,Accessories,Belts,Belts,Maroon,Winter,2018,Party,Turtle Check Women Party Maroon Belts,4935
+10066,Men,Footwear,Flip Flops,Flip Flops,Yellow,Fall,2018,Ethnic,Van Heusen Men Ethnic Yellow Flip Flops,402
+10067,Women,Footwear,Shoes,Sports Shoes,Beige,Spring,2023,Formal,W Women Formal Beige Sports Shoes,1741
+10068,Unisex,Accessories,Watches,Watches,Pink,Spring,2023,Ethnic,Puma Unisex Ethnic Pink Watches,2939
+10069,Men,Apparel,Dress,Sarees,Blue,Spring,2022,Ethnic,W Men Ethnic Blue Sarees,3054
+10070,Men,Footwear,Sandals,Sandals,Pink,Winter,2020,Party,Van Heusen Men Party Pink Sandals,2589
+10071,Unisex,Accessories,Watches,Watches,Grey,Winter,2018,Formal,W Unisex Formal Grey Watches,4301
+10072,Unisex,Apparel,Innerwear,Briefs,Pink,Summer,2018,Party,HRX Unisex Party Pink Briefs,3611
+10073,Unisex,Apparel,Dress,Jumpsuits,Maroon,Fall,2021,Ethnic,Van Heusen Unisex Ethnic Maroon Jumpsuits,3784
+10074,Unisex,Accessories,Watches,Watches,Pink,Fall,2020,Party,HRX Unisex Party Pink Watches,1287
+10075,Unisex,Apparel,Dress,Dresses,Grey,Winter,2019,Formal,Fabindia Unisex Formal Grey Dresses,2564
+10076,Unisex,Accessories,Watches,Watches,Blue,Fall,2019,Party,Roadster Unisex Party Blue Watches,2775
+10077,Men,Accessories,Belts,Belts,Navy Blue,Summer,2022,Party,Roadster Men Party Navy Blue Belts,4320
+10078,Men,Apparel,Dress,Sarees,Pink,Spring,2020,Formal,Peter England Men Formal Pink Sarees,2367
+10079,Women,Apparel,Topwear,Sweaters,Pink,Summer,2022,Casual,Roadster Women Casual Pink Sweaters,1521
+10080,Unisex,Footwear,Shoes,Casual Shoes,Black,Spring,2022,Ethnic,HRX Unisex Ethnic Black Casual Shoes,4579
+10081,Women,Footwear,Sandals,Sandals,Maroon,Spring,2020,Ethnic,Peter England Women Ethnic Maroon Sandals,1111
+10082,Men,Accessories,Belts,Belts,Yellow,Summer,2019,Formal,Roadster Men Formal Yellow Belts,4820
+10083,Men,Apparel,Topwear,Sweaters,Pink,Spring,2020,Casual,HRX Men Casual Pink Sweaters,2659
+10084,Unisex,Footwear,Flip Flops,Flip Flops,Black,Winter,2020,Ethnic,HRX Unisex Ethnic Black Flip Flops,3781
+10085,Men,Accessories,Belts,Belts,Red,Winter,2018,Casual,Roadster Men Casual Red Belts,2818
+10086,Unisex,Accessories,Watches,Watches,Black,Spring,2023,Party,W Unisex Party Black Watches,2529
+10087,Unisex,Accessories,Jewellery,Earrings,Black,Summer,2021,Party,Puma Unisex Party Black Earrings,510
+10088,Men,Apparel,Topwear,Kurtas,Maroon,Summer,2019,Sports,Fabindia Men Sports Maroon Kurtas,2577
+10089,Men,Accessories,Jewellery,Earrings,Black,Spring,2020,Sports,Van Heusen Men Sports Black Earrings,2929
+10090,Unisex,Apparel,Bottomwear,Trousers,Green,Spring,2020,Sports,Peter England Unisex Sports Green Trousers,4024
+10091,Men,Footwear,Sandals,Sandals,Black,Spring,2022,Casual,Fabindia Men Casual Black Sandals,3684
+10092,Men,Apparel,Dress,Jumpsuits,Pink,Spring,2018,Formal,Puma Men Formal Pink Jumpsuits,4798
+10093,Men,Footwear,Sandals,Sandals,Black,Summer,2023,Ethnic,HRX Men Ethnic Black Sandals,1596
+10094,Women,Accessories,Bags,Backpacks,Black,Winter,2018,Sports,Turtle Check Women Sports Black Backpacks,1560
+10095,Women,Accessories,Watches,Watches,Green,Spring,2021,Formal,Fabindia Women Formal Green Watches,4814
+10096,Men,Footwear,Shoes,Formal Shoes,Grey,Winter,2018,Party,W Men Party Grey Formal Shoes,3083
+10097,Unisex,Footwear,Shoes,Sports Shoes,Red,Spring,2019,Sports,Fabindia Unisex Sports Red Sports Shoes,3126
+10098,Women,Accessories,Jewellery,Earrings,Beige,Winter,2023,Formal,W Women Formal Beige Earrings,2212
+10099,Women,Apparel,Dress,Jumpsuits,Pink,Spring,2021,Formal,Fabindia Women Formal Pink Jumpsuits,602
+10100,Men,Accessories,Watches,Watches,Pink,Summer,2022,Sports,Peter England Men Sports Pink Watches,1479
+10101,Women,Accessories,Belts,Belts,Pink,Fall,2020,Ethnic,W Women Ethnic Pink Belts,956
+10102,Women,Accessories,Jewellery,Earrings,Yellow,Spring,2022,Casual,Turtle Check Women Casual Yellow Earrings,2222
+10103,Unisex,Accessories,Watches,Watches,Black,Spring,2018,Casual,Fabindia Unisex Casual Black Watches,1661
+10104,Unisex,Footwear,Shoes,Casual Shoes,Beige,Summer,2020,Party,Van Heusen Unisex Party Beige Casual Shoes,3827
+10105,Men,Apparel,Innerwear,Vests,White,Winter,2018,Ethnic,W Men Ethnic White Vests,2271
+10106,Women,Accessories,Belts,Belts,Pink,Fall,2021,Party,Peter England Women Party Pink Belts,4110
+10107,Women,Accessories,Belts,Belts,Pink,Fall,2022,Party,W Women Party Pink Belts,2347
+10108,Women,Footwear,Shoes,Sports Shoes,Pink,Summer,2019,Sports,Van Heusen Women Sports Pink Sports Shoes,2722
+10109,Unisex,Footwear,Shoes,Formal Shoes,Green,Fall,2018,Ethnic,Peter England Unisex Ethnic Green Formal Shoes,4368
+10110,Women,Apparel,Dress,Dresses,Yellow,Winter,2022,Party,Roadster Women Party Yellow Dresses,1094
+10111,Unisex,Accessories,Bags,Backpacks,Pink,Summer,2022,Party,Roadster Unisex Party Pink Backpacks,1037
+10112,Women,Footwear,Flip Flops,Flip Flops,White,Winter,2019,Ethnic,Van Heusen Women Ethnic White Flip Flops,4647
+10113,Unisex,Footwear,Shoes,Sports Shoes,Pink,Fall,2023,Party,Turtle Check Unisex Party Pink Sports Shoes,4135
+10114,Men,Apparel,Bottomwear,Shorts,Yellow,Spring,2022,Party,Turtle Check Men Party Yellow Shorts,3531
+10115,Men,Footwear,Flip Flops,Flip Flops,Pink,Fall,2023,Party,W Men Party Pink Flip Flops,3342
+10116,Men,Accessories,Belts,Belts,Navy Blue,Fall,2022,Formal,Turtle Check Men Formal Navy Blue Belts,4102
+10117,Unisex,Footwear,Flip Flops,Flip Flops,Black,Winter,2018,Casual,Puma Unisex Casual Black Flip Flops,4334
+10118,Men,Apparel,Bottomwear,Shorts,White,Spring,2021,Party,W Men Party White Shorts,1564
+10119,Women,Accessories,Bags,Backpacks,Maroon,Spring,2020,Casual,Van Heusen Women Casual Maroon Backpacks,2078
+10120,Women,Footwear,Shoes,Sports Shoes,Black,Fall,2022,Party,Peter England Women Party Black Sports Shoes,3560
+10121,Women,Apparel,Topwear,Sweaters,Black,Winter,2023,Ethnic,Peter England Women Ethnic Black Sweaters,713
+10122,Women,Apparel,Bottomwear,Shorts,Blue,Summer,2022,Formal,HRX Women Formal Blue Shorts,2207
+10123,Women,Apparel,Topwear,Kurtas,White,Winter,2022,Party,Roadster Women Party White Kurtas,1199
+10124,Unisex,Apparel,Bottomwear,Jeans,Beige,Winter,2022,Party,Peter England Unisex Party Beige Jeans,1726
+10125,Women,Apparel,Bottomwear,Shorts,Green,Summer,2023,Casual,Fabindia Women Casual Green Shorts,3971
+10126,Women,Accessories,Bags,Backpacks,Grey,Winter,2022,Casual,Puma Women Casual Grey Backpacks,4051
+10127,Unisex,Apparel,Topwear,Sweaters,Green,Spring,2023,Casual,Fabindia Unisex Casual Green Sweaters,3932
+10128,Men,Apparel,Dress,Jumpsuits,White,Summer,2019,Party,Van Heusen Men Party White Jumpsuits,3419
+10129,Unisex,Accessories,Watches,Watches,Grey,Spring,2018,Casual,HRX Unisex Casual Grey Watches,3822
+10130,Women,Apparel,Innerwear,Briefs,Pink,Spring,2021,Casual,Van Heusen Women Casual Pink Briefs,3795
+10131,Women,Accessories,Watches,Watches,White,Spring,2018,Casual,Turtle Check Women Casual White Watches,1062
+10132,Women,Apparel,Dress,Dresses,Grey,Summer,2022,Ethnic,Van Heusen Women Ethnic Grey Dresses,1300
+10133,Women,Footwear,Flip Flops,Flip Flops,Navy Blue,Fall,2022,Party,Van Heusen Women Party Navy Blue Flip Flops,1147
+10134,Unisex,Accessories,Belts,Belts,Yellow,Spring,2019,Casual,Van Heusen Unisex Casual Yellow Belts,4855
+10135,Women,Apparel,Dress,Jumpsuits,Blue,Spring,2022,Ethnic,Peter England Women Ethnic Blue Jumpsuits,2489
+10136,Men,Apparel,Dress,Jumpsuits,Red,Fall,2020,Casual,Roadster Men Casual Red Jumpsuits,1472
+10137,Unisex,Accessories,Jewellery,Necklaces,White,Summer,2018,Ethnic,HRX Unisex Ethnic White Necklaces,3380
+10138,Women,Footwear,Sandals,Sandals,Beige,Fall,2023,Party,Turtle Check Women Party Beige Sandals,729
+10139,Men,Apparel,Topwear,Shirts,Red,Spring,2023,Sports,Fabindia Men Sports Red Shirts,3920
+10140,Women,Footwear,Shoes,Formal Shoes,Black,Fall,2021,Casual,Puma Women Casual Black Formal Shoes,4285
+10141,Unisex,Accessories,Watches,Watches,Blue,Spring,2022,Casual,Peter England Unisex Casual Blue Watches,1973
+10142,Women,Apparel,Bottomwear,Trousers,Red,Fall,2018,Casual,Fabindia Women Casual Red Trousers,3826
+10143,Men,Apparel,Innerwear,Vests,Grey,Fall,2018,Sports,Peter England Men Sports Grey Vests,3872
+10144,Men,Footwear,Shoes,Sports Shoes,Maroon,Spring,2022,Sports,W Men Sports Maroon Sports Shoes,2670
+10145,Men,Footwear,Shoes,Sports Shoes,White,Spring,2023,Party,Turtle Check Men Party White Sports Shoes,3876
+10146,Men,Apparel,Innerwear,Briefs,Grey,Summer,2021,Party,Van Heusen Men Party Grey Briefs,2114
+10147,Women,Apparel,Topwear,Shirts,Grey,Winter,2020,Party,Roadster Women Party Grey Shirts,2234
+10148,Men,Apparel,Dress,Dresses,White,Winter,2023,Casual,Roadster Men Casual White Dresses,4346
+10149,Women,Accessories,Jewellery,Earrings,Yellow,Fall,2019,Sports,Turtle Check Women Sports Yellow Earrings,4140
+10150,Women,Accessories,Watches,Watches,Maroon,Summer,2020,Ethnic,Turtle Check Women Ethnic Maroon Watches,2841
+10151,Women,Footwear,Shoes,Casual Shoes,Beige,Fall,2018,Casual,W Women Casual Beige Casual Shoes,4089
+10152,Unisex,Accessories,Bags,Backpacks,Maroon,Winter,2020,Ethnic,Fabindia Unisex Ethnic Maroon Backpacks,4406
+10153,Men,Apparel,Innerwear,Vests,Beige,Summer,2022,Formal,Peter England Men Formal Beige Vests,2328
+10154,Unisex,Footwear,Sandals,Sandals,Beige,Fall,2020,Sports,W Unisex Sports Beige Sandals,3070
+10155,Unisex,Accessories,Bags,Backpacks,Black,Fall,2018,Ethnic,W Unisex Ethnic Black Backpacks,2626
+10156,Women,Accessories,Belts,Belts,Black,Winter,2020,Party,W Women Party Black Belts,1355
+10157,Unisex,Accessories,Bags,Backpacks,Grey,Spring,2023,Party,Roadster Unisex Party Grey Backpacks,4611
+10158,Men,Accessories,Jewellery,Earrings,Navy Blue,Fall,2020,Formal,HRX Men Formal Navy Blue Earrings,3098
+10159,Women,Apparel,Bottomwear,Jeans,White,Summer,2020,Casual,Peter England Women Casual White Jeans,3057
+10160,Unisex,Apparel,Innerwear,Vests,White,Winter,2023,Ethnic,Roadster Unisex Ethnic White Vests,3884
+10161,Men,Footwear,Sandals,Sandals,Pink,Fall,2023,Sports,HRX Men Sports Pink Sandals,4673
+10162,Men,Footwear,Sandals,Sandals,Beige,Spring,2021,Party,W Men Party Beige Sandals,4418
+10163,Unisex,Footwear,Shoes,Casual Shoes,Maroon,Winter,2020,Casual,Fabindia Unisex Casual Maroon Casual Shoes,3339
+10164,Unisex,Apparel,Topwear,Kurtas,Black,Winter,2020,Sports,Roadster Unisex Sports Black Kurtas,3882
+10165,Men,Apparel,Innerwear,Briefs,Navy Blue,Spring,2018,Sports,Van Heusen Men Sports Navy Blue Briefs,2230
+10166,Women,Apparel,Dress,Dresses,Navy Blue,Fall,2018,Party,Roadster Women Party Navy Blue Dresses,1426
+10167,Men,Footwear,Sandals,Sandals,Pink,Spring,2022,Casual,Turtle Check Men Casual Pink Sandals,454
+10168,Women,Apparel,Bottomwear,Shorts,Maroon,Spring,2018,Party,HRX Women Party Maroon Shorts,2766
+10169,Men,Apparel,Bottomwear,Trousers,Yellow,Spring,2018,Casual,Fabindia Men Casual Yellow Trousers,4690
+10170,Men,Accessories,Belts,Belts,Red,Spring,2018,Ethnic,Van Heusen Men Ethnic Red Belts,2269
+10171,Unisex,Footwear,Shoes,Formal Shoes,Yellow,Summer,2022,Party,Turtle Check Unisex Party Yellow Formal Shoes,4608
+10172,Unisex,Accessories,Bags,Backpacks,Pink,Summer,2023,Sports,Van Heusen Unisex Sports Pink Backpacks,2376
+10173,Unisex,Apparel,Dress,Dresses,Beige,Winter,2023,Casual,Van Heusen Unisex Casual Beige Dresses,1391
+10174,Men,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2023,Sports,Fabindia Men Sports Yellow Flip Flops,1792
+10175,Men,Apparel,Innerwear,Vests,Red,Winter,2018,Formal,Peter England Men Formal Red Vests,2884
+10176,Women,Accessories,Jewellery,Earrings,Red,Summer,2023,Formal,Puma Women Formal Red Earrings,3223
+10177,Men,Accessories,Watches,Watches,Black,Fall,2021,Sports,Fabindia Men Sports Black Watches,3466
+10178,Women,Apparel,Innerwear,Briefs,Beige,Fall,2018,Sports,Turtle Check Women Sports Beige Briefs,3826
+10179,Unisex,Apparel,Dress,Sarees,Black,Summer,2020,Party,Puma Unisex Party Black Sarees,3951
+10180,Unisex,Accessories,Jewellery,Necklaces,Pink,Fall,2021,Casual,Van Heusen Unisex Casual Pink Necklaces,3862
+10181,Women,Accessories,Bags,Handbags,Yellow,Spring,2020,Ethnic,Roadster Women Ethnic Yellow Handbags,554
+10182,Men,Accessories,Jewellery,Necklaces,White,Summer,2019,Party,Van Heusen Men Party White Necklaces,3435
+10183,Unisex,Apparel,Bottomwear,Shorts,Pink,Fall,2020,Sports,Turtle Check Unisex Sports Pink Shorts,1426
+10184,Unisex,Footwear,Sandals,Sandals,Yellow,Fall,2019,Casual,Peter England Unisex Casual Yellow Sandals,1823
+10185,Women,Accessories,Jewellery,Necklaces,Red,Fall,2023,Sports,HRX Women Sports Red Necklaces,2638
+10186,Unisex,Footwear,Shoes,Casual Shoes,White,Summer,2021,Formal,Fabindia Unisex Formal White Casual Shoes,1018
+10187,Unisex,Footwear,Flip Flops,Flip Flops,Black,Fall,2020,Formal,Roadster Unisex Formal Black Flip Flops,3260
+10188,Unisex,Apparel,Topwear,Tshirts,White,Winter,2021,Casual,Van Heusen Unisex Casual White Tshirts,4837
+10189,Unisex,Footwear,Sandals,Sandals,Maroon,Summer,2018,Party,W Unisex Party Maroon Sandals,4220
+10190,Unisex,Footwear,Sandals,Sandals,White,Fall,2023,Casual,Fabindia Unisex Casual White Sandals,4115
+10191,Unisex,Accessories,Watches,Watches,Grey,Winter,2019,Sports,Peter England Unisex Sports Grey Watches,1316
+10192,Unisex,Apparel,Dress,Dresses,White,Fall,2023,Formal,Van Heusen Unisex Formal White Dresses,4549
+10193,Women,Apparel,Dress,Dresses,Yellow,Fall,2019,Party,Turtle Check Women Party Yellow Dresses,4416
+10194,Unisex,Apparel,Bottomwear,Jeans,Yellow,Fall,2022,Casual,Peter England Unisex Casual Yellow Jeans,964
+10195,Men,Accessories,Watches,Watches,Maroon,Spring,2022,Casual,Fabindia Men Casual Maroon Watches,4768
+10196,Women,Accessories,Watches,Watches,Blue,Spring,2020,Sports,Turtle Check Women Sports Blue Watches,789
+10197,Men,Footwear,Sandals,Sandals,Pink,Winter,2020,Ethnic,Roadster Men Ethnic Pink Sandals,2859
+10198,Unisex,Footwear,Flip Flops,Flip Flops,Green,Winter,2020,Ethnic,Turtle Check Unisex Ethnic Green Flip Flops,2913
+10199,Men,Footwear,Shoes,Sports Shoes,Pink,Winter,2019,Casual,Peter England Men Casual Pink Sports Shoes,2676
+10200,Women,Accessories,Jewellery,Necklaces,White,Fall,2022,Party,HRX Women Party White Necklaces,1604
+10201,Women,Accessories,Jewellery,Earrings,Red,Spring,2018,Casual,W Women Casual Red Earrings,4439
+10202,Women,Apparel,Bottomwear,Shorts,Beige,Summer,2018,Party,Fabindia Women Party Beige Shorts,4154
+10203,Women,Accessories,Bags,Handbags,Green,Winter,2020,Party,W Women Party Green Handbags,3296
+10204,Men,Footwear,Shoes,Formal Shoes,Grey,Winter,2020,Ethnic,Puma Men Ethnic Grey Formal Shoes,901
+10205,Women,Accessories,Jewellery,Earrings,Maroon,Summer,2019,Casual,W Women Casual Maroon Earrings,3356
+10206,Women,Accessories,Watches,Watches,Blue,Spring,2022,Casual,Peter England Women Casual Blue Watches,617
+10207,Men,Accessories,Watches,Watches,Grey,Spring,2019,Ethnic,Roadster Men Ethnic Grey Watches,2985
+10208,Unisex,Footwear,Shoes,Sports Shoes,Maroon,Fall,2022,Party,Fabindia Unisex Party Maroon Sports Shoes,4910
+10209,Women,Footwear,Shoes,Sports Shoes,Beige,Summer,2021,Ethnic,Puma Women Ethnic Beige Sports Shoes,517
+10210,Unisex,Footwear,Sandals,Sandals,Navy Blue,Spring,2019,Ethnic,W Unisex Ethnic Navy Blue Sandals,1509
+10211,Unisex,Apparel,Topwear,Shirts,Blue,Summer,2021,Party,W Unisex Party Blue Shirts,1539
+10212,Women,Accessories,Belts,Belts,Grey,Spring,2023,Casual,Roadster Women Casual Grey Belts,4548
+10213,Men,Accessories,Watches,Watches,Grey,Spring,2020,Formal,Fabindia Men Formal Grey Watches,4666
+10214,Women,Accessories,Watches,Watches,Maroon,Spring,2019,Formal,Puma Women Formal Maroon Watches,4870
+10215,Women,Apparel,Dress,Sarees,Blue,Spring,2020,Sports,Van Heusen Women Sports Blue Sarees,4890
+10216,Unisex,Footwear,Sandals,Sandals,Maroon,Spring,2021,Party,Roadster Unisex Party Maroon Sandals,2678
+10217,Men,Footwear,Flip Flops,Flip Flops,Beige,Spring,2023,Party,Fabindia Men Party Beige Flip Flops,2051
+10218,Men,Accessories,Watches,Watches,White,Summer,2022,Ethnic,HRX Men Ethnic White Watches,2285
+10219,Men,Accessories,Belts,Belts,Navy Blue,Summer,2021,Party,Fabindia Men Party Navy Blue Belts,1122
+10220,Unisex,Apparel,Topwear,Tshirts,Green,Spring,2021,Formal,Puma Unisex Formal Green Tshirts,2930
+10221,Women,Accessories,Bags,Handbags,Yellow,Winter,2022,Casual,Roadster Women Casual Yellow Handbags,3722
+10222,Men,Apparel,Innerwear,Briefs,White,Fall,2018,Casual,Puma Men Casual White Briefs,4951
+10223,Unisex,Apparel,Dress,Sarees,Pink,Spring,2019,Ethnic,Fabindia Unisex Ethnic Pink Sarees,2534
+10224,Men,Apparel,Dress,Dresses,Pink,Fall,2023,Formal,Peter England Men Formal Pink Dresses,3060
+10225,Women,Accessories,Belts,Belts,Maroon,Spring,2021,Ethnic,Van Heusen Women Ethnic Maroon Belts,1009
+10226,Women,Accessories,Bags,Handbags,White,Spring,2020,Formal,Peter England Women Formal White Handbags,2435
+10227,Women,Apparel,Innerwear,Briefs,Beige,Fall,2022,Ethnic,Peter England Women Ethnic Beige Briefs,2441
+10228,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Summer,2021,Party,Roadster Unisex Party Navy Blue Flip Flops,3620
+10229,Unisex,Accessories,Watches,Watches,Yellow,Fall,2020,Ethnic,HRX Unisex Ethnic Yellow Watches,2094
+10230,Men,Footwear,Shoes,Sports Shoes,Maroon,Fall,2021,Ethnic,Fabindia Men Ethnic Maroon Sports Shoes,4702
+10231,Unisex,Apparel,Bottomwear,Shorts,Maroon,Summer,2022,Sports,Van Heusen Unisex Sports Maroon Shorts,938
+10232,Unisex,Apparel,Topwear,Tshirts,Maroon,Winter,2019,Party,Fabindia Unisex Party Maroon Tshirts,1251
+10233,Unisex,Apparel,Innerwear,Vests,Grey,Spring,2018,Sports,Roadster Unisex Sports Grey Vests,4503
+10234,Women,Footwear,Flip Flops,Flip Flops,Grey,Spring,2023,Party,Peter England Women Party Grey Flip Flops,3542
+10235,Women,Apparel,Bottomwear,Shorts,Black,Summer,2021,Party,Turtle Check Women Party Black Shorts,4732
+10236,Men,Apparel,Innerwear,Vests,Red,Spring,2019,Formal,W Men Formal Red Vests,3366
+10237,Women,Footwear,Sandals,Sandals,Black,Winter,2023,Party,Turtle Check Women Party Black Sandals,1761
+10238,Unisex,Footwear,Flip Flops,Flip Flops,Blue,Summer,2018,Party,Fabindia Unisex Party Blue Flip Flops,4759
+10239,Women,Accessories,Jewellery,Necklaces,Blue,Spring,2020,Formal,Puma Women Formal Blue Necklaces,1843
+10240,Unisex,Apparel,Topwear,Sweaters,Maroon,Summer,2019,Formal,Turtle Check Unisex Formal Maroon Sweaters,1125
+10241,Unisex,Apparel,Innerwear,Vests,Blue,Summer,2021,Sports,HRX Unisex Sports Blue Vests,4720
+10242,Men,Apparel,Bottomwear,Shorts,Red,Winter,2023,Ethnic,Van Heusen Men Ethnic Red Shorts,2925
+10243,Men,Footwear,Shoes,Formal Shoes,Grey,Winter,2021,Party,Puma Men Party Grey Formal Shoes,798
+10244,Unisex,Accessories,Belts,Belts,Grey,Spring,2018,Party,W Unisex Party Grey Belts,4595
+10245,Women,Accessories,Jewellery,Earrings,White,Fall,2021,Formal,Fabindia Women Formal White Earrings,2273
+10246,Men,Footwear,Flip Flops,Flip Flops,Pink,Summer,2022,Sports,W Men Sports Pink Flip Flops,4864
+10247,Unisex,Apparel,Innerwear,Vests,Red,Winter,2020,Casual,Fabindia Unisex Casual Red Vests,3338
+10248,Men,Accessories,Belts,Belts,Red,Spring,2023,Ethnic,Peter England Men Ethnic Red Belts,895
+10249,Men,Accessories,Belts,Belts,Blue,Fall,2020,Casual,HRX Men Casual Blue Belts,1855
+10250,Unisex,Apparel,Innerwear,Vests,Maroon,Winter,2021,Formal,Van Heusen Unisex Formal Maroon Vests,2617
+10251,Women,Footwear,Flip Flops,Flip Flops,Red,Fall,2020,Ethnic,Fabindia Women Ethnic Red Flip Flops,4116
+10252,Men,Accessories,Jewellery,Earrings,Blue,Fall,2020,Sports,Peter England Men Sports Blue Earrings,4907
+10253,Men,Accessories,Belts,Belts,Red,Spring,2020,Formal,HRX Men Formal Red Belts,3001
+10254,Men,Footwear,Flip Flops,Flip Flops,Pink,Fall,2020,Sports,Fabindia Men Sports Pink Flip Flops,4074
+10255,Men,Accessories,Watches,Watches,White,Spring,2019,Ethnic,Peter England Men Ethnic White Watches,4591
+10256,Men,Apparel,Topwear,Shirts,Green,Winter,2023,Formal,Turtle Check Men Formal Green Shirts,1536
+10257,Men,Apparel,Innerwear,Briefs,Navy Blue,Spring,2023,Sports,Peter England Men Sports Navy Blue Briefs,353
+10258,Unisex,Accessories,Jewellery,Necklaces,Navy Blue,Fall,2022,Party,Peter England Unisex Party Navy Blue Necklaces,4413
+10259,Unisex,Accessories,Jewellery,Necklaces,Black,Summer,2022,Formal,HRX Unisex Formal Black Necklaces,1871
+10260,Unisex,Accessories,Watches,Watches,Red,Spring,2018,Party,W Unisex Party Red Watches,4059
+10261,Unisex,Apparel,Bottomwear,Trousers,Yellow,Summer,2023,Casual,Turtle Check Unisex Casual Yellow Trousers,3619
+10262,Women,Footwear,Flip Flops,Flip Flops,Navy Blue,Summer,2023,Formal,Turtle Check Women Formal Navy Blue Flip Flops,4393
+10263,Women,Accessories,Watches,Watches,Grey,Summer,2019,Formal,Fabindia Women Formal Grey Watches,2519
+10264,Men,Apparel,Dress,Jumpsuits,Maroon,Summer,2019,Party,Peter England Men Party Maroon Jumpsuits,1996
+10265,Unisex,Apparel,Innerwear,Vests,Red,Winter,2022,Formal,W Unisex Formal Red Vests,4727
+10266,Women,Footwear,Flip Flops,Flip Flops,Black,Fall,2018,Casual,W Women Casual Black Flip Flops,2200
+10267,Men,Footwear,Flip Flops,Flip Flops,Beige,Summer,2023,Party,Fabindia Men Party Beige Flip Flops,4318
+10268,Men,Footwear,Flip Flops,Flip Flops,Green,Winter,2023,Ethnic,W Men Ethnic Green Flip Flops,1001
+10269,Unisex,Footwear,Shoes,Formal Shoes,Black,Summer,2020,Formal,W Unisex Formal Black Formal Shoes,1562
+10270,Unisex,Footwear,Sandals,Sandals,Black,Summer,2018,Party,Fabindia Unisex Party Black Sandals,3247
+10271,Women,Apparel,Bottomwear,Jeans,White,Spring,2021,Ethnic,W Women Ethnic White Jeans,1145
+10272,Men,Apparel,Dress,Jumpsuits,Black,Fall,2021,Casual,Puma Men Casual Black Jumpsuits,3688
+10273,Women,Apparel,Bottomwear,Shorts,Grey,Winter,2023,Sports,Roadster Women Sports Grey Shorts,1436
+10274,Women,Footwear,Sandals,Sandals,White,Summer,2019,Sports,Puma Women Sports White Sandals,3748
+10275,Women,Footwear,Shoes,Sports Shoes,Red,Winter,2023,Sports,HRX Women Sports Red Sports Shoes,4049
+10276,Men,Apparel,Dress,Dresses,Green,Fall,2022,Sports,Van Heusen Men Sports Green Dresses,3905
+10277,Women,Footwear,Flip Flops,Flip Flops,Red,Fall,2022,Formal,Fabindia Women Formal Red Flip Flops,2872
+10278,Men,Footwear,Sandals,Sandals,Yellow,Spring,2022,Formal,Van Heusen Men Formal Yellow Sandals,3379
+10279,Women,Footwear,Sandals,Sandals,Maroon,Winter,2022,Ethnic,Roadster Women Ethnic Maroon Sandals,4805
+10280,Men,Accessories,Jewellery,Necklaces,Pink,Fall,2023,Casual,W Men Casual Pink Necklaces,4389
+10281,Men,Accessories,Watches,Watches,Red,Winter,2023,Sports,W Men Sports Red Watches,904
+10282,Women,Accessories,Jewellery,Earrings,Grey,Spring,2022,Casual,Van Heusen Women Casual Grey Earrings,4697
+10283,Unisex,Accessories,Bags,Handbags,Blue,Fall,2019,Ethnic,Peter England Unisex Ethnic Blue Handbags,4912
+10284,Unisex,Accessories,Jewellery,Earrings,Green,Summer,2018,Casual,Puma Unisex Casual Green Earrings,2117
+10285,Unisex,Accessories,Belts,Belts,Beige,Spring,2021,Ethnic,Roadster Unisex Ethnic Beige Belts,3124
+10286,Men,Footwear,Shoes,Sports Shoes,Green,Summer,2018,Formal,Van Heusen Men Formal Green Sports Shoes,2854
+10287,Women,Footwear,Shoes,Formal Shoes,Pink,Fall,2021,Casual,Fabindia Women Casual Pink Formal Shoes,4005
+10288,Women,Apparel,Dress,Dresses,Black,Summer,2020,Casual,Roadster Women Casual Black Dresses,2297
+10289,Unisex,Apparel,Bottomwear,Trousers,Grey,Spring,2021,Formal,W Unisex Formal Grey Trousers,1810
+10290,Men,Accessories,Jewellery,Earrings,Navy Blue,Winter,2021,Ethnic,W Men Ethnic Navy Blue Earrings,3484
+10291,Men,Accessories,Belts,Belts,Red,Summer,2022,Casual,Roadster Men Casual Red Belts,3295
+10292,Women,Apparel,Innerwear,Vests,Red,Spring,2022,Party,W Women Party Red Vests,3514
+10293,Unisex,Apparel,Dress,Sarees,Pink,Winter,2023,Party,Turtle Check Unisex Party Pink Sarees,1396
+10294,Women,Apparel,Bottomwear,Trousers,Black,Winter,2020,Formal,W Women Formal Black Trousers,3725
+10295,Unisex,Apparel,Innerwear,Briefs,White,Spring,2023,Ethnic,Roadster Unisex Ethnic White Briefs,4844
+10296,Men,Footwear,Sandals,Sandals,White,Fall,2021,Ethnic,Peter England Men Ethnic White Sandals,3240
+10297,Men,Footwear,Shoes,Casual Shoes,Green,Spring,2021,Sports,W Men Sports Green Casual Shoes,3935
+10298,Women,Apparel,Topwear,Shirts,Blue,Fall,2018,Party,HRX Women Party Blue Shirts,4703
+10299,Women,Apparel,Innerwear,Briefs,Grey,Summer,2022,Casual,Puma Women Casual Grey Briefs,4748
