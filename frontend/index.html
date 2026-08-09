@@ -375,7 +375,7 @@
 <footer>StyleFind Recommendation Engine — Technical Assignment Submission</footer>
 
 <script>
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = window.location.origin + "/api";
 
 const ALGO_INFO = {
   popularity: "Popularity-Based: shows the most purchased items overall. Works even for brand-new users with no history (solves cold-start).",
