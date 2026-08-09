@@ -62,7 +62,10 @@ for _ in range(300):
     year = random.choice(years)
     usage = random.choice(usages)
     brand = random.choice(brands)
-    price = random.randint(299, 4999)
+    # Price ko round numbers mein rakhte hain (jaise 1500, 2500, 3000) --
+    # real e-commerce sites hamesha clean pricing use karte hain,
+    # random numbers (jaise 3755, 2104) unprofessional lagte hain.
+    price = random.randrange(500, 5001, 100)
 
     product_display_name = f"{brand} {gender} {usage} {base_colour} {article_type}"
 

@@ -161,7 +161,6 @@
 
   .card-swatch {
     height: 130px;
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -170,15 +169,6 @@
     text-transform: uppercase;
     color: var(--white);
     letter-spacing: 0.5px;
-    overflow: hidden;
-  }
-
-  .card-swatch img {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
   }
 
   .card-body { padding: 10px 12px 14px; }
@@ -411,25 +401,11 @@ function colorFor(name) {
   return COLOR_MAP[name] || "#9C9FA6";
 }
 
-function imageUrlFor(p) {
-  // Keyword-based free stock photo -- articleType (jaise 'Shirts', 'Jeans')
-  // ko search keyword bana ke ek relevant photo maangte hain.
-  // ?lock=<id> ka use isliye taaki same product ko refresh karne pe
-  // hamesha SAME photo mile (consistent), random nahi har baar.
-  const keyword = encodeURIComponent(p.articleType.toLowerCase());
-  return `https://loremflickr.com/280/180/${keyword}?lock=${p.id}`;
-}
-
 function productCardHTML(p, extra) {
   const swatch = colorFor(p.baseColour);
-  const imgUrl = imageUrlFor(p);
   return `
     <div class="card" data-id="${p.id}">
-      <div class="card-swatch" style="background:${swatch}">
-        ${p.articleType}
-        <img src="${imgUrl}" alt="${p.articleType}" loading="lazy"
-             onerror="this.remove()" />
-      </div>
+      <div class="card-swatch" style="background:${swatch}">${p.articleType}</div>
       <div class="card-body">
         <div class="card-brand">${p.productDisplayName.split(" ")[0]}</div>
         <div class="card-name">${p.productDisplayName}</div>
